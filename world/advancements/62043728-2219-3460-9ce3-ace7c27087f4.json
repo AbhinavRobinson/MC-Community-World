@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-09-26 14:33:17 +0000"
@@ -35,9 +41,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2020-09-29 17:04:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-09-25 20:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2020-09-29 17:09:05 +0000"
     },
     "done": true
   },
@@ -74,6 +92,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-09-25 20:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
     },
     "done": true
   },
@@ -122,6 +146,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-09-26 18:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
     },
     "done": true
   },
@@ -197,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2020-09-26 14:33:17 +0000"
@@ -269,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-09-29 18:20:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-09-26 17:30:22 +0000"
@@ -278,6 +320,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2020-09-26 18:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2020-09-28 16:24:01 +0000"
     },
     "done": true
   },
@@ -291,8 +339,10 @@
     "criteria": {
       "cooked_porkchop": "2020-09-26 17:55:44 +0000",
       "cooked_mutton": "2020-09-25 18:16:15 +0000",
+      "sweet_berries": "2020-09-29 17:25:42 +0000",
       "cooked_beef": "2020-09-26 14:15:52 +0000",
       "apple": "2020-09-25 19:02:58 +0000",
+      "bread": "2020-09-28 15:51:41 +0000",
       "salmon": "2020-09-26 16:27:29 +0000",
       "cooked_chicken": "2020-09-26 14:07:01 +0000",
       "cooked_salmon": "2020-09-25 18:57:23 +0000"
@@ -320,6 +370,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-09-25 18:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2020-09-29 17:04:12 +0000"
     },
     "done": true
   },
@@ -473,6 +529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-09-25 18:59:59 +0000"
@@ -593,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2020-09-26 14:33:17 +0000"
@@ -698,6 +766,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2020-09-25 17:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
     },
     "done": true
   },
@@ -844,6 +918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2020-09-25 20:58:44 +0000"
@@ -886,6 +966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2020-09-25 20:04:28 +0000"
@@ -895,6 +981,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2020-09-27 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
     },
     "done": true
   },
@@ -943,6 +1035,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-09-26 15:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
     },
     "done": true
   },
@@ -1012,6 +1110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-09-28 16:24:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2020-09-26 14:33:17 +0000"
@@ -1054,6 +1158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-09-26 14:33:17 +0000"
@@ -1078,9 +1188,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2020-09-29 15:55:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-09-25 20:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
     },
     "done": true
   },
@@ -1123,6 +1245,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2020-09-26 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
     },
     "done": true
   },
@@ -1180,9 +1308,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2020-09-29 15:55:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2020-09-25 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
     },
     "done": true
   },
@@ -1443,6 +1583,7 @@
       "minecraft:forest": "2020-09-25 17:44:40 +0000",
       "minecraft:mountains": "2020-09-25 20:53:39 +0000",
       "minecraft:taiga": "2020-09-25 19:03:44 +0000",
+      "minecraft:taiga_hills": "2020-09-29 17:28:21 +0000",
       "minecraft:dark_forest": "2020-09-25 18:01:12 +0000",
       "minecraft:river": "2020-09-25 17:46:35 +0000",
       "minecraft:wooded_mountains": "2020-09-26 17:39:07 +0000",
@@ -1472,6 +1613,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-09-25 18:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2020-09-29 15:55:29 +0000"
     },
     "done": true
   },
@@ -1505,9 +1652,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-09-28 16:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-09-25 18:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
     },
     "done": true
   },
@@ -1544,6 +1703,18 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2020-09-25 17:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2020-09-29 16:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
     },
     "done": true
   },
@@ -1737,6 +1908,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2020-09-26 18:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-09-28 15:22:39 +0000"
     },
     "done": true
   },
