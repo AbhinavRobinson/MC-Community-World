@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-10-13 12:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-09-25 20:14:17 +0000"
@@ -496,6 +502,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2020-09-25 20:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2020-10-13 12:04:44 +0000"
     },
     "done": true
   },
@@ -897,6 +909,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-10-13 13:06:58 +0000",
       "minecraft:skeleton": "2020-09-25 18:12:50 +0000",
       "minecraft:spider": "2020-09-26 14:12:04 +0000",
       "minecraft:zombified_piglin": "2020-09-27 17:58:02 +0000",
@@ -1645,8 +1658,12 @@
       "minecraft:mountains": "2020-09-25 20:53:39 +0000",
       "minecraft:taiga": "2020-09-25 19:03:44 +0000",
       "minecraft:taiga_hills": "2020-09-29 17:28:21 +0000",
+      "minecraft:birch_forest": "2020-10-13 12:49:02 +0000",
+      "minecraft:beach": "2020-10-13 12:50:14 +0000",
       "minecraft:dark_forest": "2020-09-25 18:01:12 +0000",
       "minecraft:river": "2020-09-25 17:46:35 +0000",
+      "minecraft:lukewarm_ocean": "2020-10-13 12:50:20 +0000",
+      "minecraft:birch_forest_hills": "2020-10-13 12:49:58 +0000",
       "minecraft:wooded_mountains": "2020-09-26 17:39:07 +0000",
       "minecraft:wooded_hills": "2020-09-25 17:59:21 +0000",
       "minecraft:plains": "2020-09-25 20:58:00 +0000"
