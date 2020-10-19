@@ -2027,7 +2027,8 @@
     "criteria": {
       "minecraft:sheep": "2020-09-29 09:19:52 +0000",
       "minecraft:cow": "2020-09-29 10:30:40 +0000",
-      "minecraft:chicken": "2020-09-29 18:02:22 +0000"
+      "minecraft:chicken": "2020-09-29 18:02:22 +0000",
+      "minecraft:horse": "2020-10-18 11:02:13 +0000"
     },
     "done": false
   },
@@ -3051,5 +3052,5 @@
     },
     "done": true
   },
-  "DataVersion": 2578
+  "DataVersion": 2580
 }
